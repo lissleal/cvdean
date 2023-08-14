@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;700&display=swap');
+
+*{
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+header {
+    background-color: rgb(152, 19, 19);
+    color: white;
+    text-align: center;
+}
+.logo {
+    height: 80px;
+}
+.hero {
+    background-image: url(./img/6198791.jpg);
+    height: 90vh;
+    background-size: cover;
+}
+ol {
+    list-style-type: none;
+}
+.tituloPrincipal{
+    background-color: rgba(79, 78, 78, 0.193);
+    line-height: 100px;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.tituloSecundario{
+    background-color:rgb(152, 19, 19);
+    line-height: 40px;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+.cursiva {
+    font-style: italic;
+}
+.negrita {
+    font-weight: bold;
+}
+
+.footer{
+    background-color:rgb(152, 19, 19);
+    line-height: 60px;    
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.icono {
+    height: 20px;
+}
